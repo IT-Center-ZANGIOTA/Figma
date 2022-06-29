@@ -1,0 +1,440 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins' sans-serif;
+}
+
+.flex {
+    position: absolute;
+    display: flex;
+    top: 15px;
+    left: 270px;
+}
+
+.flex p {
+    padding: 0 20px;
+}
+
+.boxs {
+    position: absolute;
+    top: 650px;
+    left: 100px;
+    display: flex;
+}
+
+.box {
+    position: relative;
+    width: 330px;
+    height: 300px;
+    padding: 0 30px;
+    box-shadow: 0 5px 25px rgb(1 1 1 / 15%);
+    border-radius: 10px;
+    background: #fff;
+}
+
+.box span {
+    color: #BC9060;
+}
+
+.box1 {
+    position: absolute;
+    left: 110px;
+    top: -15px;
+    width: 160px;
+    height: 160px;
+}
+
+.box-text {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    left: 130px;
+    top: 120px;
+    font-size: 20px;
+}
+
+.box-lorem {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    font-size: 23px;
+    width: 300px;
+}
+
+.istoriya {
+    position: absolute;
+    top: 1000px;
+    width: 100%;
+    height: 500px;
+}
+
+.istoriya h2 {
+    position: absolute;
+    width: 336px;
+    height: 62px;
+    left: 160px;
+    top: 15px;
+    font-size: 39px;
+}
+
+.istoriya span {
+    position: absolute;
+    width: 336px;
+    height: 62px;
+    left: 110px;
+    color: #BC9060;
+    font-size: 39px;
+}
+
+.yeda-lorem {
+    position: absolute;
+    width: 555px;
+    height: 217px;
+    left: 150px;
+    top: 100px;
+    font-size: 21px;
+    color: #656363;
+}
+
+.spanlar {
+    position: absolute;
+    display: flex;
+    top: 420px;
+    left: 150px;
+}
+
+.span {
+    font-size: 25px;
+    padding: 0px 30px;
+    font-family: 'Open Sans';
+}
+
+.sipan {
+    position: absolute;
+    display: flex;
+    top: 360px;
+    left: 200px;
+}
+
+.span1 {
+    padding: 0 30px;
+    font-size: 40px;
+    color: #BC9060;
+}
+
+.food {
+    position: relative;
+    top: 1700px;
+}
+
+.food-p {
+    position: absolute;
+    width: 601px;
+    height: 120px;
+    left: 100px;
+    top: 0px;
+    font-size: 44px;
+    color: #D67E34;
+}
+
+.food-p2 {
+    position: absolute;
+    width: 542px;
+    height: 33px;
+    left: 105px;
+    top: 140px;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.menu {
+    position: relative;
+    top: 2000px;
+}
+
+.rows {
+    position: absolute;
+    left: 579px;
+    top: 100px;
+}
+
+.gambur {
+    width: 159.3333px;
+    height: 159.3333px;
+}
+
+.narx {
+    position: absolute;
+    left: 200px;
+    top: 50px;
+    width: 500px;
+    font-size: 23px;
+}
+
+.narx2 {
+    position: absolute;
+    left: 200px;
+    top: 210px;
+    width: 500px;
+    font-size: 23px;
+}
+
+.narx3 {
+    position: absolute;
+    left: 200px;
+    top: 380px;
+    width: 500px;
+    font-size: 23px;
+}
+
+.restaran {
+    position: relative;
+    top: 2700px;
+}
+
+.h2 {
+    position: absolute;
+    left: 550px;
+    font-weight: 400;
+    top: 30px;
+    color: #fff;
+    font-size: 40px;
+}
+
+.aksiya {
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    color: black;
+    background-color: #D67E34;
+}
+
+.p-si {
+    position: absolute;
+    top: -5px;
+    left: 5px;
+    font-size: 15px;
+}
+
+.main-menu {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    background: #fff;
+    box-shadow: 0 5px 25px rgb(1 1 1 / 15%);
+    top: 240px;
+    left: 150px;
+}
+
+.main-menu2 {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    background: #fff;
+    box-shadow: 0 5px 25px rgb(1 1 1 / 15%);
+    top: 240px;
+    left: 500px;
+}
+
+.main-menu3 {
+    position: absolute;
+    width: 300px;
+    height: 500px;
+    background: #fff;
+    box-shadow: 0 5px 25px rgb(1 1 1 / 15%);
+    top: 240px;
+    left: 860px;
+}
+
+.gam {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    left: 43px;
+    top: 50px;
+}
+
+.border {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #D67E34;
+    color: white;
+    top: 175px;
+    left: 170px;
+    border: 7px solid #fff;
+    text-align: center;
+}
+
+.cookie {
+    position: absolute;
+    font-size: 20px;
+    left: 14px;
+    top: 6px;
+    font-family: 'Cookie';
+}
+
+.ism {
+    position: absolute;
+    left: 70px;
+    top: 260px;
+    font-size: 22px;
+    font-family: 'Tinos';
+}
+
+.haqida {
+    font-weight: 400;
+    position: absolute;
+    font-size: 17px;
+    color: #656363;
+    top: 300px;
+    left: 60px;
+    width: 190px;
+}
+
+.btnni {
+    position: absolute;
+    width: 190px;
+    height: 39px;
+    cursor: pointer;
+    background-color: #D67E34;
+    color: #fff;
+    border: none;
+    text-align: center;
+    top: 380px;
+    left: 60px;
+}
+
+.users {
+    position: absolute;
+    top: 3622px;
+    background: #E5E5E5;
+    width: 100%;
+    height: 550px;
+}
+
+.user-lorem {
+    position: absolute;
+    width: 620px;
+    height: 52px;
+    left: 360px;
+    top: 25px;
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 23px;
+}
+
+.user {
+    position: absolute;
+    top: 220px;
+    left: 580px;
+}
+
+.aylana {
+    position: absolute;
+    background-color: #656363;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    left: 590px;
+}
+
+.aylana2 {
+    position: absolute;
+    background-color: #656363;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    top: 335px;
+    left: 624px;
+}
+
+.aylana1 {
+    position: absolute;
+    background-color: #656363;
+    border: 2px solid #D67E34;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    top: 333px;
+    left: 655px;
+}
+
+.gallery {
+    position: absolute;
+    width: 100%;
+    background-color: #fff;
+    height: 700px;
+    top: 4100px;
+}
+
+.coffee {
+    position: absolute;
+    top: 140px;
+    left: 124px;
+}
+
+.cofe {
+    position: absolute;
+    top: 140px;
+    left: 680px;
+}
+
+.coup {
+    position: absolute;
+    top: 140px;
+    left: 950px;
+}
+
+.cofe2 {
+    position: absolute;
+    top: 430px;
+    left: 124px;
+}
+
+.coup2 {
+    position: absolute;
+    top: 430px;
+    left: 400px;
+}
+
+.coffee2 {
+    position: absolute;
+    top: 430px;
+    left: 668px;
+}
+
+.chef {
+    position: absolute;
+    width: 100%;
+    background-color: #fff;
+    top: 4800px;
+}
+
+.fran {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.ital {
+    position: absolute;
+    top: 100px;
+    left: 480px;
+}
+
+.rus {
+    position: absolute;
+    top: 100px;
+    left: 860px;
+}
+
+.lampa {
+    position: absolute;
+    top: 600px;
+    width: 100%;
+}
